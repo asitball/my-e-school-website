@@ -1,0 +1,99 @@
+
+.background {
+    background-color: #F1FFF0;
+    padding-bottom: 20px;
+}
+
+.sign-in-btn {
+    background-color: #20B573;
+    border-radius: 20px;
+}
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.first-col {
+    padding: 20px 60px;
+}
+.small-heading {
+    color: #FF5724;
+    margin-bottom: 20px;
+
+}
+.big-hedding {
+    font-weight: bold;
+}
+.hedding-color-text {
+    color: #20B573;
+    margin-bottom: 30px;
+}
+.paragrap-text {
+    margin: 30px 0px;
+    color: #606A5F;
+}
+
+img {
+    width: 100%;
+}
+.row-margin{
+    margin: 80px 0px;
+}
+.icon-images{
+    width: 150px;
+    height: 180px;
+    margin-left: 55px;
+}
+.book-topic {
+    margin-top: 30px;
+    text-align: center;
+}
+.topic-paragraph{
+    font-size: 18px;
+    color: #606A5F;
+    text-align: center;
+}
+.icon-second{
+    box-shadow: 0 3px 0px 0 rgba(0, 0, 0, 0.2), 0 3px 5px 0 rgba(0, 0, 0, 0.19);
+}
+.icon-section {
+    padding: 20px;
+}
+.class-heading {
+    color: #423D5B;
+    font-weight: bold;
+    text-align: center;
+    margin: 60px 0px;
+}
+.card-title {
+    color:#423D5B ;
+    font-weight: bold;
+}
+h6 {
+    color: #606A5F;
+    margin: 20px 0px;
+}
+.testimonial-img {
+    width: 120px;
+    height: 120px;
+}
+.footer-section {
+    background-color: #282530;
+    height: 420px;   
+}
+.card-text {
+    color: white;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+.course-name {
+    color: white;
+}
+.course-title {
+    color: white;
+    font-weight: 500;
+    margin: 100px 10px 25px 0px;
+}
+.copyright {
+    color: white;
+    text-align: center;
+    font-size: 12px;
+}
